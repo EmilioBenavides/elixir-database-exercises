@@ -1,5 +1,5 @@
 -- All albums in your table.
-SELECT  album_name
+SELECT *
 FROM albums;
 
 -- All albums released before 1980
